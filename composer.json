@@ -9,7 +9,7 @@
     "require": {
         "php": ">=7.1.0",
         "laravel/framework": "^8.0",
-        "laravel/nova": "^2.0|^3.0",
+        "laravel/nova": "*",
         "spatie/laravel-medialibrary": "^8.0"
     },
     "autoload": {
